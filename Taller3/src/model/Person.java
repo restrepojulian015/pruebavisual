@@ -5,6 +5,16 @@ public class Person {
 	// ATRIBUTTES ( CARACTERISTICAS)
 	private String name;
 	private int age;
+	private double height;
+	private int weight;
+	private String allergies;
+	private int call;
+	private String mail;
+	private String gender;
+	private int id;
+	private String eps;
+	private String backgroundFamily;
+	private String surgeries;
 	
 	// METHODS (Behavior)
 	/**
